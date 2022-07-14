@@ -13,7 +13,7 @@ Primeiramente, foi difícil e demorado criar uma lógica para esse projeto, mas 
 git clone git@github.com:lucas-da-silva/trybe-color-guess.git
 ```
 
-2. Dentro do reposítorio, basta abrir o arquivo index.html para visualizar o projeto no navegador. :rocket:
+2. Dentro do repositório, basta abrir o arquivo index.html para visualizar o projeto no navegador. :rocket:
 
 --- 
 
