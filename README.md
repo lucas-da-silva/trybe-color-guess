@@ -1,6 +1,5 @@
 # Bem vindo ao projeto Color Guess
 
-
 ## Comentários
 Primeiramente, foi difícil e demorado criar uma lógica para esse projeto, mas foi bem divertido usar JavaScript e tentei estilizar um pouco com CSS, mas faltou tempo.
 
