@@ -10,7 +10,7 @@ Primeiramente, foi difícil e demorado criar uma lógica para esse projeto, mas 
 1. No terminal, em um diretório de sua escolha, clonar o repositório:
 
 ```
-git clone git@github.com:lucas-da-silva/trybe-color-guess.git
+git clone git@github.com:lucas-da-silva/color-guess.git
 ```
 
 2. Dentro do repositório, basta abrir o arquivo index.html para visualizar o projeto no navegador. :rocket:
